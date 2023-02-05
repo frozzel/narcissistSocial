@@ -53,3 +53,10 @@ body{
 .card ::-webkit-scrollbar{
     width: 0;
 }
+
+.filepond--item{
+    width: calc(50% - 0.5rem);
+}
+.filepond--root{
+    max-width: 20em;
+}
