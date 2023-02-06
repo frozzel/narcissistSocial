@@ -35,7 +35,7 @@
 [Store S3 Credentials](https://blog.assistancy.be/blog/how-to-store-credentials-in-rails-7/)  
 [Debug Config File](https://stackoverflow.com/questions/52370065/issue-to-open-credentials-file)  
 [Encrypted Credentials in Ruby on Rails Medium](https://medium.com/craft-academy/encrypted-credentials-in-ruby-on-rails-9db1f36d8570)  
-[Stack Overflow rack Db and Create](https://stackoverflow.com/questions/17649686/destroy-remove-database-in-rails)  
+[Stack Overflow rake Db and Create](https://stackoverflow.com/questions/17649686/destroy-remove-database-in-rails)  
 [Dev.to More config settings](https://dev.to/n350071/extractcredentialsprovider-cannot-load-rails-config-activestorage-service-aws-sigv4-errors-missingcredentialserror-4ge7)  
 
 
