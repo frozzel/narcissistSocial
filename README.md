@@ -17,7 +17,7 @@
 
   ## Screen Shots
 
-![Screen Shots](https://github.com/frozzel/narcissistSocial/blob/007c7688e0d778a3d49000ac61efbdb9b7141811/s1.png)
+![Screen Shots](https://github.com/frozzel/narcissistSocial/blob/e41148c2c4c9fbcc1d6b2092de4090e214b870ca/s1.png)
 ![Screen Shots2](https://github.com/frozzel/narcissistSocial/blob/007c7688e0d778a3d49000ac61efbdb9b7141811/s2.png)
 ![Screen Shots3](https://github.com/frozzel/narcissistSocial/blob/007c7688e0d778a3d49000ac61efbdb9b7141811/s3.png)
 
