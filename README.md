@@ -37,6 +37,7 @@
 [Encrypted Credentials in Ruby on Rails Medium](https://medium.com/craft-academy/encrypted-credentials-in-ruby-on-rails-9db1f36d8570)  
 [Stack Overflow rake Db and Create](https://stackoverflow.com/questions/17649686/destroy-remove-database-in-rails)  
 [Dev.to More config settings](https://dev.to/n350071/extractcredentialsprovider-cannot-load-rails-config-activestorage-service-aws-sigv4-errors-missingcredentialserror-4ge7)  
+https://gist.github.com/zulhfreelancer/ea140d8ef9292fa9165e
 
 
 
