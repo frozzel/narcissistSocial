@@ -8,7 +8,7 @@
       <div class="card-body">
         <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
           <div class="mb-3 mt-4">
-            <%= f.email_field :email, class: "form-control", placeholder: "Phone number, username, or email" %>
+            <%= f.email_field :email, class: "form-control", placeholder: "Email" %>
           </div>
           <div class="mb-3">
             <%= f.password_field :password, class: "form-control", placeholder: "Password" %>

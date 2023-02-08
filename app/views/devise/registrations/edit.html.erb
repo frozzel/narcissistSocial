@@ -6,7 +6,7 @@
       <a href='#' class="active p-3 profile-edit-btn">Edit Profile</a>
     </div>
 
-    <div class="w-50 ms-5 d-flex flex-column p-4">
+    <div class="w-50 ms-5 d-flex flex-column p-4"><div class="color-red text-align-center">Current password required to submit.</div><br>
       <div class="d-flex align-items-center">
         <%= image_tag resource.profile_pic.attached? ? resource.profile_pic : 'user-pp.png', class: "img-thumbnail rounded-circle", style: "width: 3rem; max-height:3rem" %>
         <div class="d-flex flex-column mx-3 justify-content-center">
