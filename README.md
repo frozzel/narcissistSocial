@@ -4,10 +4,8 @@
 
 
    # Narcissist Social   
-   [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/frozzel/narcissistSocial) [![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)](https://narcissist-social.herokuapp.com/)
-
 >[!CAUTION]
->Site has been depreciated and is no longer serviced, please checkout the repo for more information!
+>Site has been depreciated and is no longer serviced
  
  
  ---
